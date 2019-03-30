@@ -9,7 +9,7 @@ Data Science Nanodegree Capstone Project - Sparkify
 ### Libraries Used ###
 - **numpy** and **pandas** for data manipulation
 - **seaborn** for data viz
-- **pyspak** for data manipulation and machine learning
+- **pyspark** for data manipulation and machine learning
 
 ### Motivation ###
 blah blah
