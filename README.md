@@ -2,24 +2,16 @@
 Data Science Nanodegree Capstone Project - Sparkify
 
 ### Key Deliverables: ###
-- **XXX.ipynb** - Jupyter Notebook with technical data manipulation and analysis.
-- **YYY.ipynb** - Jupyter Notebook for the non-technical blog post.
-    - HTML view of blog post is [here](https://stannnman.github.io/XXX.html)
+- **Sparkify.ipynb** - Jupyter Notebook with technical data manipulation and analysis.
+- **Sparkify_Blog_Post.ipynb** - Jupyter Notebook for the blog post.
+- HTML view of blog post is [here](https://stannnman.github.io/Sparkify_Blog_Post.html)
 
 ### Libraries Used ###
-- **numpy** and **pandas** for data manipulation
-- **seaborn** for data viz
 - **pyspark** for data manipulation and machine learning
+- **matplotlib** and **seaborn** for data viz
 
 ### Motivation ###
-blah blah
+- Selected this project as a learning opportunity to skill up on PySpark, a technology for scalable data science that is widely used in industry today.
 
 ### Purpose: ###
-This project seeks to answer the following business questions:
-- blah blah
-
-### Conclusion: ###
-blah blah
-
-### Acknowledgements ###
-Thanks to ....
+This project seeks to use machine learning to predict customer churn for a hypothetical music streaming service called Spotify.
