@@ -11,7 +11,11 @@ Data Science Nanodegree Capstone Project - Sparkify
 - **matplotlib** and **seaborn** for data viz
 
 ### Motivation ###
-- Selected this project as a learning opportunity to skill up on PySpark, a technology for scalable data science that is widely used in industry today.
+Selected this project as a learning opportunity to skill up on PySpark, a technology for scalable data science that is widely used in industry today.
 
 ### Purpose: ###
 This project seeks to use machine learning to predict customer churn for a hypothetical music streaming service called Spotify.
+
+### Summary: ###
+Successfully completed a full end-to-end data preparation, modelling and optimisation exercise using PySpark.
+Gradient Boosted Trees emerged as the optimal model for predicting customer churn in this case.
